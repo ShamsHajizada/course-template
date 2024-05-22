@@ -1,0 +1,54 @@
+.headerr{
+    display: flex;
+    justify-content: space-between;
+  padding: 30px;
+  color: black;
+  background-color: white;
+  
+}
+ul{
+  display: flex;
+  gap: 20px;
+}
+.head{
+    flex-direction: row;
+}
+
+.contact{
+  background-color: #FFB606;
+  width: 220px;
+  height: 100px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  gap: 5px  ;
+
+}
+
+.cont-icon{
+  width: 20px;
+  height: 20px;
+}
+
+.logo{
+  display: flex;
+  gap: 5px;
+  
+}
+
+.logo-icon{
+  width: 50px;
+  height: 40px;
+}
+
+.register{
+  width: 700px;
+  height: 700px;
+  background-color: #FFB606;
+}
+.header{
+  background-image: url(https://preview.colorlib.com/theme/course/images/slider_background.jpg);
+height: 100vh;
+position: relative;
+}
